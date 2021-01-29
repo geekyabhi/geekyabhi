@@ -1,4 +1,4 @@
-<h2>Hello ji 👋👋, this is Abhinav Thakur </h2>
+<h2>Hello ji <img src="https://res.cloudinary.com/ds9lzvw8m/image/upload/v1611921212/waving_hand_sign_1024_jzecj9.gif" width="40">, this is Abhinav Thakur </h2>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geekyabhi/)
@@ -16,6 +16,8 @@ I'm a Second-year student pursuing Bachelors's in Computer Science 🎓 from JSS
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/geekyabhi).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: thakurabhinav17122001@gmail.com.
+
+<img align="right" src="https://res.cloudinary.com/ds9lzvw8m/image/upload/v1611920261/giphy_cs2rrf.gif" width="500">
 
 ### My Absolute Favorites:
 
