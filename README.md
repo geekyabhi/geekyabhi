@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geekyabhi/)
 
-### Glad to see you here! &nbsp; !
+### Glad to see you here !
 
 I'm a Second-year student pursuing Bachelors's in Computer Science 🎓 from JSSATE Noida 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that i spend my time in reading books and mentoring others 👨🏻‍💻. I'm currently into Backend Development 🕸️ and working on Data Structures and Algorithms 🤓.
 
