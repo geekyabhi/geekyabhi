@@ -11,7 +11,7 @@ I'm a Second-year student pursuing Bachelors's in Computer Science 🎓 from JSS
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Mongodb, Javascript, Express, etc.
+- 🛠 &nbsp; I’m currently working with Node.js, MongoDB, JavaScript, Express.js, etc.
 - 🚀 &nbsp; I’m currently learning Front End Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/geekyabhi).
 - 👾 &nbsp; Fun fact: Judges a book by number of pages.
