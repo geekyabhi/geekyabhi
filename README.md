@@ -1,4 +1,4 @@
-<h2>Hello ji 👋👋, this is Abhinav Thakur<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
+<h2>Hello ji 👋👋, this is Abhinav Thakur </h2>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geekyabhi/)
@@ -8,7 +8,6 @@
 I'm a Second-year student pursuing Bachelors's in Computer Science 🎓 from JSSATE Noida 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Backend Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 
-<img align='right' src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="375">
 
 ### Talking about Personal Stuffs:
 
