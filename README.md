@@ -5,13 +5,13 @@
 
 ### Glad to see you here !
 
-I'm a Second-year student pursuing Bachelors's in Computer Science 🎓 from JSSATE Noida 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that i spend my time in reading books and mentoring others 👨🏻‍💻. I'm currently into Backend Development 🕸️ and working on Data Structures and Algorithms 🤓.
+I'm a Second-year student pursuing Bachelors's in <b>Computer Science</b> 🎓 from JSSATE Noida 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that i spend my time in <b>reading books</b> and mentoring others 👨🏻‍💻. I'm currently into <b>Backend Development</b> 🕸️ and working on <b>Data Structures and Algorithms</b> 🤓.
 
-<img align="right" src="https://res.cloudinary.com/ds9lzvw8m/image/upload/v1611920261/giphy_cs2rrf.gif" width="350">
+<img align="right" src="https://res.cloudinary.com/ds9lzvw8m/image/upload/v1611920261/giphy_cs2rrf.gif" width="330">
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Node.js, MongoDB, JavaScript, Express.js, etc.
+- 🛠 &nbsp; I’m currently working with <b>Node.js</b> , <b>MongoDB</b> , <b>JavaScript</b> , <b>Express.js</b>.
 - 🚀 &nbsp; I’m currently learning Front End Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/geekyabhi).
 - 👾 &nbsp; Fun fact: Judges a book by number of pages.
