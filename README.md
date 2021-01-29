@@ -17,7 +17,7 @@ I'm a Second-year student pursuing Bachelors's in Computer Science 🎓 from JSS
 - 👾 &nbsp; Fun fact: Judges a book by number of pages.
 - 📫 &nbsp; How to reach me: thakurabhinav17122001@gmail.com.
 
-<img align="right" src="https://res.cloudinary.com/ds9lzvw8m/image/upload/v1611920261/giphy_cs2rrf.gif" width="500">
+<img align="right" src="https://res.cloudinary.com/ds9lzvw8m/image/upload/v1611920261/giphy_cs2rrf.gif" width="300">
 
 ### My Absolute Favorites:
 
