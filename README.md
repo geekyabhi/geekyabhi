@@ -27,11 +27,11 @@ I'm a Second-year student pursuing Bachelors's in <b>Computer Science</b> 🎓 f
 ### Languages and Tools:
 
 <p align="center">  
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40" style="margin:0px 20px;"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40"/>
 <img alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="40"/>
 <img alt="Express.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="50"/>
 <img alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="70"/>
