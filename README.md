@@ -28,7 +28,7 @@ I'm a Second-year student pursuing Bachelors's in Computer Science 🎓 from JSS
 
 <p align="center">  
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40" style="margin:20;"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40" style="margin:20px;"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/>
