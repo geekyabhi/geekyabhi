@@ -188,6 +188,51 @@ That instinct for edge cases, time complexity, and minimal correct solutions sho
 </tr>
 </table>
 
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:7c3aed&height=3" width="100%" />
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+[![spinr](https://github-readme-stats.vercel.app/api/pin/?username=geekyabhi&repo=spinr&theme=tokyonight&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=e2e8f0&hide_border=true)](https://github.com/geekyabhi/spinr)
+
+**Cloud container provisioning platform** — spin up isolated environments on demand with dedicated host & port, real-time log streaming over WebSocket, and full network sandboxing. Built on 10 independently deployable microservices decoupled via Kafka and gRPC.
+
+![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+[![microservice](https://github-readme-stats.vercel.app/api/pin/?username=geekyabhi&repo=microservice&theme=tokyonight&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=e2e8f0&hide_border=true)](https://github.com/geekyabhi/microservice)
+
+**Event-driven e-commerce backend** — 5 decoupled services (Products, Customer, Shopping, Payments, Notification) communicating via RabbitMQ, fronted by NGINX as reverse proxy. Each service is independently deployable via Docker Compose.
+
+![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3" width="100%" />
+
 ## 📊 GitHub Stats
 
 <div align="center">
